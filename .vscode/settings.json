@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\zerov\\.platformio\\penv\\Scripts;C:\\Users\\zerov\\.platformio\\penv;C:\\Program Files\\Oculus\\Support\\oculus-runtime;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\PuTTY\\;C:\\Users\\zerov\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\zerov\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\zerov\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\Oculus\\Support\\oculus-runtime;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\PuTTY\\;C:\\Users\\zerov\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\zerov\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\zerov\\AppData\\Local\\GitHubDesktop\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
